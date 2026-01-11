@@ -18,10 +18,10 @@
 | 3 | γραμμή εντολών (arch linux) |https://github.com/upatras-hci/iv/discussions/225| |
 | 4 | συμμετοχικό περιεχόμενο 1A |https://github.com/upatras-hci/iv/discussions/232| |
 | 5 | γραμμή εντολών (custom desktop environment) | | |
-| 6 | συμμετοχικό περιεχόμενο 2Α | | |
-| 7 | βιογραφικό Β | | |
+| 6 | συμμετοχικό περιεχόμενο 2Α |https://github.com/upatras-hci/iv/discussions/263 | |
+| 7 | βιογραφικό Β |https://github.com/upatras-hci/iv/discussions/264 | |
 | 8 | γραμμή εντολών (iv cli) | | |
-| 9 | συμμετοχικό περιεχόμενο 1Β | | |
+| 9 | συμμετοχικό περιεχόμενο 1Β | https://github.com/upatras-hci/iv/discussions/265 | |
 | 10 | γραμμή εντολών (iv cli |  | |
 | 11 | συμμετοχικό περιεχόμενο 2Β |  | |
 | 12 | Τελική αναφορά* | |

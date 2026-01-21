@@ -22,7 +22,7 @@
 | 7 | βιογραφικό Β |https://github.com/upatras-hci/iv/discussions/264 | |
 | 8 | γραμμή εντολών (iv cli) | https://github.com/upatras-hci/iv/discussions/286| |
 | 9 | συμμετοχικό περιεχόμενο 1Β | https://github.com/upatras-hci/iv/discussions/265 | |
-| 10 | γραμμή εντολών (iv cli |  | |
+| 10 | γραμμή εντολών (iv cli |https://github.com/upatras-hci/iv/discussions/287  | |
 | 11 | συμμετοχικό περιεχόμενο 2Β |  | |
 | 12 | Τελική αναφορά* | |
 
@@ -238,4 +238,34 @@ https://github.com/user-attachments/assets/e36f3564-f867-4c77-b07c-be43d1fb77e2
 **Παραδοτέο 10ης εβδομάδας**
 
 **--------------------------------------------------------------------------------**
+Για την 10η Εβδομάδα και την οπτικοποίηση πληροφορίας και δεδομένων με εναλλακτικές προσαρμογές και στο υποσύστημα της γραμμής εντολών πειραματίστηκα με την χρήση των console services.
 
+Αρχικά εγκατέστησα τα
+Εγκατάσταση curl για ανάκτηση, λήψη και streaming δεδομένων
+sudo pacman -S curl
+
+Εγκατάσταση εργαλείων δικτύου
+sudo pacman -S inetutils
+
+Εγκατάσταση nmap για εξερεύνηση δικτύου και ανακάλυψη hosts
+sudo pacman -S nmap
+
+Πείραμα 1 – Zoomable ASCII Map
+Στόχος: Οπτικοποίηση ενός zoomable world map μέσω terminal.
+
+Αποτέλεσμα: Ο χάρτης φορτώθηκε κανονικά και ήταν δυνατή η πλοήγηση με zoom.
+
+Αυτό απέδειξε ότι τα console services μπορούν να εμφανίζουν γραφικά δεδομένα σε ASCII περιβάλλον.
+
+![week 10a](https://github.com/user-attachments/assets/2c66ef1e-7f47-4c4d-aabd-b47134076dc3)
+
+
+Πείραμα 2 – Συναλλαγματικές ισοτιμίες κρυπτονομισμάτων
+Στόχος: Άμεση ανάκτηση και οπτικοποίηση των exchange rates των cryptocurrencies μέσω CLI.
+
+Αποτέλεσμα: Τα δεδομένα εμφανίστηκαν σωστά στο terminal, επιτρέποντας την παρακολούθηση των ισοτιμιών χωρίς GUI.
+
+https://github.com/user-attachments/assets/e0ca4348-ab40-4c51-9190-8276a201c21e
+
+
+#ΥΓ επισυνάπτω τα βίντεο που τράβηξα με OBS καθώς έσβησα το CLI που συνδέει το asciinema απο το virtual machine με το λογαρισμό asciinema μου και δε μπόρεσα να το συνδέσω πάλι 

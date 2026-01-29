@@ -152,10 +152,16 @@ open firefox
 Για το παραδοτέο της 6ης εβδομάδας, θα σας παρουσιάσω τα παραδείγματα: mouse-draw και form validation.
 
 Πρώτα έκανα το mouse-draw και πρόσθεσα επιλογή καθαρισμού/reset με το πλήκτρο space  :
+
+[Embed](https://codepen.io/FotopoulouE/embed/WbxGdVW?default-tab=result)
+
 https://github.com/EleniFot/site/blob/master/_remix/mouse-draw-extra.md
 https://codepen.io/FotopoulouE/pen/WbxGdVW
 
 Και ύστερα το form Validation όπου πρόσθεσα έλεγχο για email, credit card, ελληνικό τηλεφωνικό νούμερο: 
+
+[Embed](https://codepen.io/FotopoulouE/embed/jErMYXR?default-tab=result)
+
 https://github.com/EleniFot/site/blob/master/_remix/form-validation-extra.md
 https://codepen.io/FotopoulouE/pen/jErMYXR
 

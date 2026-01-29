@@ -106,14 +106,15 @@ ________________________________________________________________________________
 Τα links των repositories είναι τα εξής:
 
 
-Images | Figure
+Images | Figure | Site
 -- | --
-[Εικόνα 1](https://github.com/EleniFot/images/blob/master/Amazon-Echo-2014-header-1024x640.png) | [Εικόνα 1](https://github.com/EleniFot/figure/blob/master/AmazonEcho-metadata.md)
-[Εικόνα 2](https://github.com/EleniFot/images/blob/master/Tobii%20Dynavox.jpg) | [Εικόνα 2](https://github.com/EleniFot/figure/blob/master/TobiiDynavox-metadata.md)
+[Εικόνα 1](https://github.com/EleniFot/images/blob/master/Amazon-Echo-2014-header-1024x640.png) | [Εικόνα 1](https://github.com/EleniFot/figure/blob/master/AmazonEcho-metadata.md) | [Site](https://hci-iv-2025.netlify.app/figure/amazonecho-metadata/)
+[Εικόνα 2](https://github.com/EleniFot/images/blob/master/Tobii%20Dynavox.jpg) | [Εικόνα 2](https://github.com/EleniFot/figure/blob/master/TobiiDynavox-metadata.md) | [Site](https://hci-iv-2025.netlify.app/figure/tobiidynavox-metadata/)
 
 
 PR στο Images: https://github.com/HCI-IV-2025/images/pull/10
 PR στο _gallery: hhttps://github.com/HCI-IV-2025/figure/pull/7
+
 
 
 **--------------------------------------------------------------------------------**

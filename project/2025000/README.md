@@ -233,11 +233,13 @@ https://github.com/user-attachments/assets/e36f3564-f867-4c77-b07c-be43d1fb77e2
 
 [Προσωπικό repository](https://github.com/EleniFot/site/blob/master/_case-study/xerox-star.md)
 [Περιγραφή](https://github.com/EleniFot/site/blob/master/_includes/cs-Xerox_Star.md)
+[Site](https://hci-iv-2025.netlify.app/case-study/xerox-star/)
 
 στη βιογραφία: ο Stuart K. Card (γεννημένος το 1943) είναι Αμερικανός ερευνητής και πρωτοπόρος στον τομέα της αλληλεπίδρασης ανθρώπου–υπολογιστή (HCI). Η έρευνά του στο Xerox PARC και η ανάπτυξη μοντέλων όπως το GOMS για την ανάλυση της συμπεριφοράς των χρηστών υπήρξαν καθοριστικές για τη θεμελίωση της HCI ως επιστημονικού πεδίου. Επίσης, συνέβαλε σημαντικά στην εφαρμογή της οπτικής παρακολούθησης (eye-tracking) για τη βελτίωση των διεπαφών και της ευχρηστίας.
 
 [Προσωπικό repository](https://github.com/EleniFot/site/blob/master/_biography/Stuart_K_Card.md)
 [Περιγραφή](https://github.com/EleniFot/site/blob/master/_includes/bio-Stuart_K_Card.md)
+[site](https://hci-iv-2025.netlify.app/biography/stuart_k_card/)
 
 Οι αλλαγές πραγματοποιήθηκαν στους φακέλους _case-study, _biography και _includes αντίστοιχα.**
 

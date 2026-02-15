@@ -158,6 +158,7 @@ open firefox
 
 https://github.com/EleniFot/site/blob/master/_remix/mouse-draw-extra.md
 https://codepen.io/FotopoulouE/pen/WbxGdVW
+[site](https://hci-iv-2025.netlify.app/remix/mouse-draw-extra/)
 
 Και ύστερα το form Validation όπου πρόσθεσα έλεγχο για email, credit card, ελληνικό τηλεφωνικό νούμερο: 
 
@@ -165,6 +166,8 @@ https://codepen.io/FotopoulouE/pen/WbxGdVW
 
 https://github.com/EleniFot/site/blob/master/_remix/form-validation-extra.md
 https://codepen.io/FotopoulouE/pen/jErMYXR
+
+[site](https://hci-iv-2025.netlify.app/remix/form-validation-extra/)
 
 **--------------------------------------------------------------------------------**
 
